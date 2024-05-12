@@ -17,7 +17,7 @@ b{
     color:rgb(1, 1, 109);
 }
 
-.cart a:hover{
+.cart a{
     color: rgb(87, 104, 227);
     font-weight: 800;
 }
